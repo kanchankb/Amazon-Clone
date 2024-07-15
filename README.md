@@ -1,1 +1,1 @@
-# Amazon-Clone
+This project is a front-end clone of the Amazon e-commerce website. It mimics the visual design and user interface of Amazon, including key features such as product listings, product detail pages, a shopping cart, and a responsive layout.
